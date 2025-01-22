@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <p dir="auto"><strong><g-emoji class="g-emoji" alias="mailbox_with_mail" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png">📬</g-emoji> Contacts:</strong></p>
-<p dir="auto"><a href="https://www.linkedin.com/in/shahinhashemi/" rel="nofollow"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@shahinhashemi" title="@shahinhashemi" data-canonical-src="https://img.icons8.com/fluency/48/000000/linkedin.png" style="max-width: 100%;"></a><a><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="mailto:shahin.hashemi1993@gmail.com" title="shahin.hashemi1993@gmail.com" data-canonical-src="https://img.icons8.com/fluency/48/000000/apple-mail.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/shahinhashemi/" rel="nofollow"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="@shahinhashemi" title="@shahinhashemi" data-canonical-src="https://img.icons8.com/fluency/48/000000/linkedin.png" style="max-width: 100%;"></a><a href="mailto:shahin.hashemi1993@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="shahin.hashemi1993@gmail.com" title="shahin.hashemi1993@gmail.com" data-canonical-src="https://img.icons8.com/fluency/48/000000/apple-mail.png" style="max-width: 100%;"></a></p>
 <blockquote>
 <p dir="auto"><strong>Note:</strong> This page has been started since May 2022.</p>
 </blockquote>
